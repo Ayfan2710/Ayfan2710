@@ -69,13 +69,15 @@ skills to keep systems reliable and secure.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayfan2710&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfan2710&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayfan2710&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayfan2710&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayfan2710" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayfan2710&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </p>
+
+<p align="center"><sub>If the widgets above don't load (the free stats service is sometimes rate-limited), refresh the page after a minute, or view live stats directly: <a href="https://github.com/Ayfan2710">github.com/Ayfan2710</a></sub></p>
 
 ---
 
